@@ -1,4 +1,5 @@
 # paragraph =  ["Hello","Wor5d", "Good", "Job","Hii","Be Careful"]
+
 paragraph = [input(f"Enter the {i+1} value: ") for i in range(5)] #get input values from user
 
 
